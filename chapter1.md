@@ -17,7 +17,7 @@ El lenguaje R inició en 1991 como un proyecto experimental que intentaba diseñ
 
 Para el año 1993, se compartió la primera versión beta mediante la plataforma StatLib, su acogida fue tan buena que en poco tiempo alcanzó miles de descargas y al mismo tiempo una gran cantidad de comentarios y sugerencias.
 
-Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
+En que país inició el proyecto R ?
 
 *** =instructions
 - Adventure
