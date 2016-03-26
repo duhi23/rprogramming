@@ -1,6 +1,6 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Introducción al Lenguaje R
+description : Historia, Instalación de R y sus paquetes.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
@@ -11,7 +11,11 @@ attachments :
 //player.vimeo.com/video/154783078
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1
-## A really bad movie
+## Inicios
+
+El lenguaje R inició en 1991 como un proyecto experimental que intentaba diseñar un banco de preguntas que sirva como pilar las posibles construcciones de editores gráficos estadísticos.
+
+Para el año 1993, se compartió la primera versión beta mediante la plataforma StatLib, su acogida fue tan buena que en poco tiempo alcanzó miles de descargas y al mismo tiempo una gran cantidad de comentarios y sugerencias.
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
