@@ -1,7 +1,7 @@
-title            : Template R DataCamp Course
+title            : Programación en R
 author_field     : duhi23
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-author_bio       : duhi23 is an awesome DataCamp course creator.<br>You can tell something about yourself <strong>here</strong>.
-university       : DataCamp
-difficulty_level : 2
-time_needed      : 1 hour
+description      : Primer curso de programación en R Gratuito
+author_bio       : Diego Paul Huaraca S.<br>You can tell something about yourself <strong>here</strong>.
+university       : Quito
+difficulty_level : 3
+time_needed      : 10 horas
