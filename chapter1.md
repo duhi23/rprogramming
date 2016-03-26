@@ -11,7 +11,8 @@ attachments :
 //player.vimeo.com/video/154783078
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1
-## Inicios
+
+## Inicio
 
 El lenguaje R inició en 1991 como un proyecto experimental que intentaba diseñar un banco de preguntas que sirva como pilar las posibles construcciones de editores gráficos estadísticos.
 
@@ -26,7 +27,7 @@ En que país inició el proyecto R ?
 - Comedy
 
 *** =hint
-Have a look at the plot. Which color does the point with the lowest rating have?
+Ross Ihaka y Robert Gentleman trabajaron juntos en la Universidad de Auckland.
 
 *** =pre_exercise_code
 ```{r}
